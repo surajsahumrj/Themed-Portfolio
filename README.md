@@ -1,5 +1,3 @@
----
-
 # Themed Portfolio Website
 
 ## Overview
@@ -40,4 +38,4 @@ This is a **modern portfolio website** designed to showcase projects, skills, an
 
 [View the live portfolio](https://themedportfolio.netlify.app/)
 
----
+
