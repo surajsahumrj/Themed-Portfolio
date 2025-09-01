@@ -1,5 +1,3 @@
-Got it. Here's a clean, professional README focusing **only on the portfolio website as a project**, without any personal information:
-
 ---
 
 # Themed Portfolio Website
@@ -43,5 +41,3 @@ This is a **modern portfolio website** designed to showcase projects, skills, an
 [View the live portfolio](https://themedportfolio.netlify.app/)
 
 ---
-
-If you want, I can also make a **more detailed version** with a **section-by-section explanation** of the website structure and how it’s implemented, which is great for GitHub documentation. Do you want me to do that?
